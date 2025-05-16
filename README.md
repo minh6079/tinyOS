@@ -5,3 +5,5 @@ An OS written in batch
 # Versions and features:
 - v1.0
 - + Add basic text mode and features like creating files, creating folders, moving file, copying files, ...
+- v2.0
+- + Add a basic desktop gui

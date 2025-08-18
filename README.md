@@ -9,7 +9,7 @@
 - Reset password
 - Shutdown
 - Format disk (for fun, animation only)
-- Green text for normal obertion and red for error
+- Green text for normal operation and red for error
 #### Changelog:
 - 1.0: First version with text
 - 2.0: Add a basic desktop

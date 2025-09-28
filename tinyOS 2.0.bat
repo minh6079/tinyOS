@@ -4,6 +4,15 @@ title TinyOS 2.0
 color A
 cls
 
+REM ================================
+REM  Project Notes
+REM  Author: Minh
+REM  Date: 2025-09-28
+REM  
+REM  This script mimics macOS and runs in cmd
+REM  Github repo: github.com/minh6079/tinyOS.git
+REM ================================
+
 :: Initial password
 set password=tinyOS
 
@@ -174,3 +183,4 @@ set password=tinyOS
 pause
 cls
 goto gui
+

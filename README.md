@@ -1,5 +1,6 @@
 # tinyOS
 ### An OS written in batch
+### WIP (Work in progress, may expect errors and bugs)
 #### Features:
 - Text mode
 - Basic GUI (still text, no clicking on elements)

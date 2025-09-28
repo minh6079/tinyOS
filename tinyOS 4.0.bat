@@ -4,6 +4,15 @@ title TinyOS
 color A
 cls
 
+REM ================================
+REM  Project Notes
+REM  Author: Minh
+REM  Date: 2025-09-28
+REM  
+REM  This script mimics macOS and runs in cmd
+REM  Github repo: github.com/minh6079/tinyOS.git
+REM ================================
+
 :: Set the initial password
 set password=tinyOS
 
@@ -515,4 +524,5 @@ set password=tinyOS
 echo Password has been reset to the default ("tinyOS")
 pause
 cls
+
 goto logon
